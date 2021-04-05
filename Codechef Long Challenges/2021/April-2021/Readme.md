@@ -7,8 +7,12 @@
 
 
 ### Valid Pair SOCKS1
+
+#### ---------------------------------------------------------------
 #### Problem
 <a href = "https://www.codechef.com/APRIL21C/problems/SOCKS1"> Valid Pair </a>
 
 #### Solution 
 <a href="valid_pair.cpp" target="_blank">Valid Pair</a>
+
+#### ---------------------------------------------------------------
