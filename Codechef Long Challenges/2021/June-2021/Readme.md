@@ -6,7 +6,7 @@
 <a href="https://www.codechef.com/JUNE21C" target="_blank">June-2021 Long Challenge</a>
 
 
-### Valid Pair SOCKS1
+### Summer Heat
 
 #### ---------------------------------------------------------------
 #### Problem
