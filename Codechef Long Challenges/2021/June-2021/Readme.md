@@ -10,9 +10,9 @@
 
 #### ---------------------------------------------------------------
 #### Problem
-<a href = "https://www.codechef.com/JUNE21C/problems/COCONUT"> Summer Heat </a>
+<a href = "https://www.codechef.com/JUNE21C/problems/COCONUT"> Summer Heat Question </a>
 
 #### Solution 
-<a href="valid_pair.cpp" target="_blank">Valid Pair</a>
+<a href="coconut.cpp" target="_blank"> Summer Heat Problem</a>
 
 #### ===============================================================
